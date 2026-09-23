@@ -9,24 +9,26 @@
     "test": "node ./node_modules/vitest/vitest.mjs run --passWithNoTests"
   },
   "dependencies": {
-    "next": "^15",
-    "react": "^18",
-    "react-dom": "^18",
     "@stacks/connect": "^8",
-    "@stacks/transactions": "^7",
     "@stacks/network": "^7",
+    "@stacks/transactions": "^7",
+    "jotai": "^2.19.0",
+    "next": "^15",
     "pino-pretty": "^11",
-    "jotai": "^2.19.0"
+    "react": "^18",
+    "react-dom": "^18"
   },
   "devDependencies": {
-    "typescript": "^5",
-    "tailwindcss": "^3",
-    "autoprefixer": "^10",
-    "postcss": "^8",
+    "@img/colour": "^1.1.0",
+    "@stacks/clarinet-sdk": "3.21.0",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "@stacks/clarinet-sdk": "3.21.0",
+    "autoprefixer": "^10",
+    "postcss": "^8",
+    "sharp": "^0.35.4",
+    "tailwindcss": "^3",
+    "typescript": "^5",
     "vitest": "^4.1.8"
   }
 }

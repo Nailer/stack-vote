@@ -5,8 +5,8 @@ import Header from '../components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata = {
-  title: 'scaffold-stacks',
-  description: 'Built with scaffold-stacks',
+  title: 'Stack Vote',
+  description: 'On-chain polls on Stacks — create a poll, vote, watch the tally update live.',
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {

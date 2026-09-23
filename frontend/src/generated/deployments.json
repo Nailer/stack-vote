@@ -1,0 +1,11 @@
+{
+  "network": "testnet",
+  "deployed_at": "2026-09-23T13:53:22.742802+00:00",
+  "contracts": {
+    "polls": {
+      "contract_id": "ST1E24HE1KGT851Z6T6Z4JVH2SYXC0BHT34EQ8KVE.polls",
+      "tx_id": "0x8d335ac87691c4f72ded5cf4a5a8fb859a1be38d4511f796503b9a5eced71547",
+      "block_height": 0
+    }
+  }
+}
